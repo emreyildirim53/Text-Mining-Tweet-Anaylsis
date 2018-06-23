@@ -6,6 +6,7 @@
 > Aşağıdaki açıklamalar Result dosyasındaki program çıktılarını açıklamaktadır. 
 
 **1-raw_texts : **Alınan ham veri
+
 **2-raw_classes:** Ham veri içinden hash mantığıyla veriler sınıflarına ayrıştırıldı.
 **3-splitword_classes: **Ayrıştırılan veriler arasındaki boşluklar ve bazı karakterler temizlendi.
 **4-stop-words: **Veri üzerinde gereksiz kelime temizleme işlemi yapıldı.
