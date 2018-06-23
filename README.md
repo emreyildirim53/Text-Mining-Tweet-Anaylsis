@@ -32,6 +32,6 @@
 **13-ResultValue:** Oluşturulan örneklem ve modeller sınıflandırma algoritmasında test edildi ve sonuç değerleri hesaplanıp dosyaya yazıldı.
 
 
-* TF-IDF tablosu : 9-TF_IDF klasörü içerisinde matrixTF_IDF.csv tablosudur. Her bir trashold değeri içinde ayrıca TF-IDF tablosu oluşturulmuştur. Bu tablolar 11-TF_IDF_afterMatual_Information klasöründe yer almaktadır.
+* **TF-IDF tablosu :** 9-TF_IDF klasörü içerisinde matrixTF_IDF.csv tablosudur. Her bir trashold değeri içinde ayrıca TF-IDF tablosu oluşturulmuştur. Bu tablolar 11-TF_IDF_afterMatual_Information klasöründe yer almaktadır.
 
-* Performans Ölçüm Değerleri : 13-ResultValue klasörü içerisinde her bir trashold değeri için oluşturulmuştur.(ResultValues.xlsx)
+* **Performans Ölçüm Değerleri :** 13-ResultValue klasörü içerisinde her bir trashold değeri için oluşturulmuştur.(ResultValues.xlsx)
