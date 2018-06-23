@@ -5,7 +5,7 @@
 >** Result** klasörü algoritmanın çalıştırılması sonucu elde edilmiştir.
 > Aşağıdaki açıklamalar Result dosyasındaki program çıktılarını açıklamaktadır. 
 
-**1-raw_texts : ** Alınan ham veri
+**1-raw_texts :** Alınan ham veri
 
 **2-raw_classes:** Ham veri içinden hash mantığıyla veriler sınıflarına ayrıştırıldı.
 
