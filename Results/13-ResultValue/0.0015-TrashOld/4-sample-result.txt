@@ -1,0 +1,30 @@
+----------------Örneklem 4 Ýçin Bulunan Deðerler--------------------
+
+pozPoz: 35
+pozNeg: 9
+pozNeu: 7
+negPoz: 32
+negNeg: 48
+negNeu: 12
+neuPoz: 13
+neuNeg: 24
+neuNeu: 21
+Toplam Kayýt: 201
+Doðru Bildiklerinin Sayýsý: 104
+Yanlýþ Bildiklerinin Sayýsý: 97
+
+pozRecall: 0.6862745098039216
+negRecall: 0.5217391304347826
+neuRecall: 0.3620689655172414
+pozPrecision: 0.4375
+negPrecision: 0.3950617283950617
+neuPrecision: 0.325
+pozF1: 0.8381978745696752
+negF1: 0.5938295489257713
+neuF1: 0.3816034266430148
+macroAverage-Precision: 0.3858539094650206
+macroAverage-Recall: 0.5233608685853152
+macroAverage-F1: 0.6045436167128204
+microAverage-Precision: 0.3841392850752754
+microAverage-Recall: 0.5140474002433688
+microAverage-F1: 0.5901179849715397

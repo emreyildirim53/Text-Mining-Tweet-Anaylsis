@@ -1,0 +1,30 @@
+----------------Örneklem 1 Ýçin Bulunan Deðerler--------------------
+
+pozPoz: 24
+pozNeg: 19
+pozNeu: 28
+negPoz: 26
+negNeg: 65
+negNeu: 33
+neuPoz: 15
+neuNeg: 39
+neuNeu: 32
+Toplam Kayýt: 281
+Doðru Bildiklerinin Sayýsý: 121
+Yanlýþ Bildiklerinin Sayýsý: 160
+
+pozRecall: 0.3380281690140845
+negRecall: 0.5241935483870968
+neuRecall: 0.37209302325581395
+pozPrecision: 0.36923076923076925
+negPrecision: 0.21138211382113822
+neuPrecision: 0.16129032258064516
+pozF1: 0.32311516155758074
+negF1: 0.7471124733674728
+neuF1: 0.5191508847676054
+macroAverage-Precision: 0.2473010685441842
+macroAverage-Recall: 0.41143824688566505
+macroAverage-F1: 0.529792839897553
+microAverage-Precision: 0.23591159104106801
+microAverage-Recall: 0.429898957330532
+microAverage-F1: 0.5690173839422306

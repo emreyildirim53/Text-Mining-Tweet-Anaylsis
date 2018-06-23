@@ -1,0 +1,30 @@
+----------------Örneklem 5 Ýçin Bulunan Deðerler--------------------
+
+pozPoz: 29
+pozNeg: 24
+pozNeu: 18
+negPoz: 29
+negNeg: 63
+negNeu: 32
+neuPoz: 26
+neuNeg: 32
+neuNeu: 28
+Toplam Kayýt: 281
+Doðru Bildiklerinin Sayýsý: 120
+Yanlýþ Bildiklerinin Sayýsý: 161
+
+pozRecall: 0.4084507042253521
+negRecall: 0.5080645161290323
+neuRecall: 0.32558139534883723
+pozPrecision: 0.34523809523809523
+negPrecision: 0.24369747899159663
+neuPrecision: 0.3333333333333333
+pozF1: 0.44270786006360746
+negF1: 0.6867321152833957
+neuF1: 0.3217510259917921
+macroAverage-Precision: 0.3074229691876751
+macroAverage-Recall: 0.4140322052344072
+macroAverage-F1: 0.48373033377959845
+microAverage-Precision: 0.2971949649424987
+microAverage-Recall: 0.42631727282708615
+microAverage-F1: 0.5118715684645162

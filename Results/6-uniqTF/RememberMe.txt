@@ -1,0 +1,2 @@
+New_ etiketine sahip dosya yeni (stop-words-turkish-github.txt) stopwords kullanýlarak yaratýlmýþtýr.
+Bu etikete sahip olmayanlar eski (stop-words_turkish.txt) stopwords kullanýlarak yaratýlmýþtýr.

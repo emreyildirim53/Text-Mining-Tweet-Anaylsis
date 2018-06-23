@@ -1,0 +1,30 @@
+pozPoz: 322
+pozNeg: 158
+pozNeu: 116
+negPoz: 240
+negNeg: 641
+negNeu: 217
+neuPoz: 152
+neuNeg: 235
+neuNeu: 348
+Toplam Kayýt: 2429
+Doðru Bildiklerinin Sayýsý: 1311
+Yanlýþ Bildiklerinin Sayýsý: 1118
+
+averagePozRecall: 0.5401303780964798
+averageNegRecall: 0.5842468438798714
+averageNeuRecall: 0.4732876712328767
+averagePozPrecision: 0.45103892013075536
+averageNegPrecision: 0.23353441737006803
+averageNeuPrecision: 0.22388048588987455
+averagePozF1: 0.5892782062462126
+averageNegF1: 0.8376481114247729
+averageNeuF1: 0.6498495186790636
+
+Ortalama Precision Macro Deðeri: 0.31094242575078805
+Ortalama Recall Macro Deðeri: 0.52507122507122514
+Ortalama F1-Score Macro Deðeri: 0.6922586121166832
+
+Ortalama Precision Micro Deðeri: 0.28571048120421966
+Ortalama Recall Micro Deðeri: 0.5387133793473845
+Ortalama F1-Score Micro Deðeri: 0.7165276083194786

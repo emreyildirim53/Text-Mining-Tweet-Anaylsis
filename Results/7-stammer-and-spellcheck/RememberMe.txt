@@ -1,0 +1,2 @@
+New etiketli stammer-and-spellcheck 5-clear_classes klasöründeki NEW_clear_ dosyasýnýn temizlenmesiyle oluþmuþtur.
+New etiketine sahip olmayan stammer-and-spellcheck 5-clear_classes klasöründeki old_clear_ dosyasýnýn temizlenmesiyle oluþturulmuþtur.

@@ -1,0 +1,32 @@
+---------------- Örneklemlerin Sonuç Deðerleri --------------------
+
+pozPoz: 286
+pozNeg: 244
+pozNeu: 205
+negPoz: 358
+negNeg: 537
+negNeu: 371
+neuPoz: 268
+neuNeg: 316
+neuNeu: 313
+Toplam Kayýt: 2898
+Doðru Bildiklerinin Sayýsý: 1136
+Yanlýþ Bildiklerinin Sayýsý: 1762
+
+averagePozRecall: 0.3888830347734457
+averageNegRecall: 0.424098124098124
+averageNeuRecall: 0.34955524344569294
+averagePozPrecision: 0.31461769993727906
+averageNegPrecision: 0.32750622045255906
+averageNeuPrecision: 0.3059219900521034
+averagePozF1: 0.4305079625719591
+averageNegF1: 0.4828540170115184
+averageNeuF1: 0.37933234124888454
+
+Ortalama Precision Macro Deðeri: 0.03282051282051282
+Ortalama Recall Macro Deðeri: 0.037776806526806525
+Ortalama F1-Score Macro Deðeri: 0.4308981069441207
+
+Ortalama Precision Micro Deðeri: 0.3175565595664517
+Ortalama Recall Micro Deðeri: 0.39209396447118505
+Ortalama F1-Score Micro Deðeri: 0.4375354203337548

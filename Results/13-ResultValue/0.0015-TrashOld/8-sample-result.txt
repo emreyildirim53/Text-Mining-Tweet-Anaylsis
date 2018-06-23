@@ -1,0 +1,30 @@
+----------------Örneklem 8 Ýçin Bulunan Deðerler--------------------
+
+pozPoz: 31
+pozNeg: 12
+pozNeu: 8
+negPoz: 23
+negNeg: 63
+negNeu: 6
+neuPoz: 13
+neuNeg: 22
+neuNeu: 23
+Toplam Kayýt: 201
+Doðru Bildiklerinin Sayýsý: 117
+Yanlýþ Bildiklerinin Sayýsý: 84
+
+pozRecall: 0.6078431372549019
+negRecall: 0.6847826086956522
+neuRecall: 0.39655172413793105
+pozPrecision: 0.4626865671641791
+negPrecision: 0.23711340206185566
+neuPrecision: 0.35135135135135137
+pozF1: 0.6902625456962446
+negF1: 1.0173104465149219
+neuF1: 0.4205177784939307
+macroAverage-Precision: 0.35038377352579536
+macroAverage-Recall: 0.5630591566961617
+macroAverage-F1: 0.7093635902350325
+microAverage-Precision: 0.3296833526701667
+microAverage-Recall: 0.5760546532238692
+microAverage-F1: 0.7496419750461306

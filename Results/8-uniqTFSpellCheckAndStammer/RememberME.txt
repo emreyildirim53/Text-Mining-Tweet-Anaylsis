@@ -1,0 +1,2 @@
+NEW_ etiketli dosya 7-stammer-and-spellcheck klasörü içindeki New_etiketli dosyanýn uniq deðerlerini içeriyor.
+OLD_ etiketli dosya 7-stammer-and-spellcheck klasörü içindeki New_ etiket-siz- dosyanýn uniq deðerlerini içeriyor.

@@ -1,0 +1,21 @@
+Hatýrlayalým: Buradaki positive cümleler New_ etiketli dosyadan gelen cümleler Old_ etiketli dosyada
+daha fazla kelime mevcut bir sonraki aþama o olabilir.
+
+
+Sýnýflarý ayrýlmýþ cümleler dosyadan okundu.
+Sýnýf sayýsýyla orantýlý olarak 10 parçaya ayrýlarak örneklemler elde edildi.
+Her bir örneklemde;
+
+Positive: 73 adet
+Negative: 126 adet
+Neutral: 89 adet
+Her biri 288 kayýt.
+
+Not oransal olarak tam bölünmediði için son örneklemde;
+
+Positive: 78 adet
+Negative: 132 adet
+Neutral: 96 adet
+Bu dosyada 306 kayýt.
+
+Toplamda 288x9+306= 2898 kayýt bulunmaktadýr.

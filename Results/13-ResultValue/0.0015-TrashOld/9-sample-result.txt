@@ -1,0 +1,30 @@
+----------------Örneklem 9 Ýçin Bulunan Deðerler--------------------
+
+pozPoz: 33
+pozNeg: 10
+pozNeu: 8
+negPoz: 20
+negNeg: 55
+negNeu: 17
+neuPoz: 20
+neuNeg: 16
+neuNeu: 22
+Toplam Kayýt: 201
+Doðru Bildiklerinin Sayýsý: 110
+Yanlýþ Bildiklerinin Sayýsý: 91
+
+pozRecall: 0.6470588235294118
+negRecall: 0.5978260869565217
+neuRecall: 0.3793103448275862
+pozPrecision: 0.4520547945205479
+negPrecision: 0.24691358024691357
+neuPrecision: 0.425531914893617
+pozF1: 0.7618595825426946
+negF1: 0.8461684566771419
+neuF1: 0.3575267972212617
+macroAverage-Precision: 0.37483342988702617
+macroAverage-Recall: 0.54139841843784
+macroAverage-F1: 0.6551849454803661
+microAverage-Precision: 0.3542287764750758
+microAverage-Recall: 0.5426768256354103
+microAverage-F1: 0.6735395432814403

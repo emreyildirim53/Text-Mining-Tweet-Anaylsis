@@ -1,0 +1,30 @@
+----------------Örneklem 3 Ýçin Bulunan Deðerler--------------------
+
+pozPoz: 30
+pozNeg: 11
+pozNeu: 10
+negPoz: 24
+negNeg: 50
+negNeu: 18
+neuPoz: 16
+neuNeg: 10
+neuNeu: 32
+Toplam Kayýt: 201
+Doðru Bildiklerinin Sayýsý: 112
+Yanlýþ Bildiklerinin Sayýsý: 89
+
+pozRecall: 0.5882352941176471
+negRecall: 0.5434782608695652
+neuRecall: 0.5517241379310345
+pozPrecision: 0.42857142857142855
+negPrecision: 0.3380281690140845
+neuPrecision: 0.26666666666666666
+pozF1: 0.6806028196402529
+negF1: 0.6701451288943927
+neuF1: 0.7438977140643162
+macroAverage-Precision: 0.3444220880840599
+macroAverage-Recall: 0.5611458976394156
+macroAverage-F1: 0.6982152208663206
+microAverage-Precision: 0.33890395513175675
+microAverage-Recall: 0.557381977626459
+microAverage-F1: 0.6956256228887435

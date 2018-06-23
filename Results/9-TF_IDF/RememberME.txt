@@ -1,0 +1,5 @@
+-Attributes.txt içindekiler 8-uniqTFSpellCheckAndStammer klasöründeki NEW_uniqTF_SpellCheckAndStammer.txt dosyasýndaki elde edilmiþ toplam kelimeler ve frekanslarý bulunmaktadýr.
+-positive-sentences.txt içindekiler 7-stammer-and-spellcheck klasöründeki NEW_ etiketli yeni stop-words lerle temizlenmiþ veri setidir.
+
+
+-Bu aþamada yeni positive-sentences.txt oluþturulmalý ve bu sefer new_ etiketsiz olanlar alýnmalýdýr.

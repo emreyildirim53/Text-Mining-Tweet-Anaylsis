@@ -1,0 +1,11 @@
+attributesInformation.txt: Tüm attributeleri ve informationlarýný tutar.
+
+Trashold value : 0.00035 olarak seçildi.
+Matual Information'da bulunan deðerler sýralanýp 0.00035 deðerinin altýnda kalan attributeler temizlendi.
+Yeni attributeler new_attributes.txt içinde saklanmaktadýr.
+
+0.00035-new_attributes dosyanýn gerçek ismi deðildir. 0.00035 trashold seviyesi belirlenmiþ ve 13-ResultValue klasöründe
+sonuç deðeri hesaplandýðý için bu þekle dönüþtürülmüþtür.
+
+Yeni trashold deðeri 0.001 olarak seçilecektir. 0.001 seçilmesinin nedeni bu deðerden sonra olan kelimenin verisetinde 1 kere geçiyor olmasýdýr.
+Bu dosyanýn ismi new_attributes olacaktýr.

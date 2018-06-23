@@ -1,0 +1,32 @@
+----------------Örneklem 2 Ýçin Bulunan Deðerler--------------------
+
+pozPoz: 33
+pozNeg: 16
+pozNeu: 10
+negPoz: 26
+negNeg: 61
+negNeu: 22
+neuPoz: 14
+neuNeg: 25
+neuNeu: 34
+Toplam Kayýt: 241
+Doðru Bildiklerinin Sayýsý: 128
+Yanlýþ Bildiklerinin Sayýsý: 113
+
+pozRecall: 0.559322033898305
+negRecall: 0.5596330275229358
+neuRecall: 0.4657534246575342
+pozPrecision: 0.4520547945205479
+negPrecision: 0.2549019607843137
+neuPrecision: 0.21212121212121213
+pozF1: 0.6186440677966101
+negF1: 0.769001037378027
+neuF1: 0.6400187905275608
+
+macroAverage-Precision: 0.30635932247535796
+macroAverage-Recall: 0.5282361620262583
+macroAverage-F1: 0.6758879652340659
+
+microAverage-Precision: 0.2916628307792516
+microAverage-Recall: 0.5304961800128016
+microAverage-F1: 0.6909439469476579
